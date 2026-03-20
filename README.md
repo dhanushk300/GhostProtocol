@@ -3,7 +3,7 @@
 > **Unleashed 2026 Hackathon** | Track: Social Good + Open Innovation
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org)
-[![Socket.io](https://img.shields.io/badge/Socket.io-4.6-blue)](https://socket.io)
+[![Socket.io](https://img.shields.io/badge/Socket.io-4.6-blue)](https://socket.io) 
 [![Claude AI](https://img.shields.io/badge/Claude-AI_Powered-purple)](https://anthropic.com)
 
 ---
