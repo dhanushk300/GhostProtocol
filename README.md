@@ -110,12 +110,4 @@ Get a free API key at [console.anthropic.com](https://console.anthropic.com)
 - 🏟️ Stadium/event emergencies
 - 🌐 Areas with no cellular infrastructure
 
-## 👥 Team
 
-- [Name 1] — Mesh networking & backend
-- [Name 2] — Frontend & UI
-- [Name 3] — AI integration & maps
-
-## 📄 License
-
-MIT
